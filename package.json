@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Mike1Cruz/QR-CODE/issues"
   },
-  "homepage": "https://github.com/Mike1Cruz/QR-CODE#readme"
+  "homepage": "https://github.com/Mike1Cruz/QR-CODE#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
